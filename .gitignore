@@ -1,0 +1,16 @@
+# Data
+data/
+outputs/
+*.tif
+*.tiff
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
