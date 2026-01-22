@@ -61,7 +61,7 @@ Reconstruction quality is assessed using:
 - Visual outputs demonstrate improved spatial continuity of reconstructed imagery
 
 ### Example Outputs
-<p align="center"> <img src="figures/fig5_reconstruction_overview.png" width="90%"> </p> <p align="center"> <img src="figures/fig6_validation_stack.png" width="90%"> </p>
+<p align="center"> Final Reconstuction Overview <img src="figures/fig5_reconstruction_overview.png" width="90%"> </p> <p align="center">  Reconstucted Image Validation<img src="figures/fig6_validation_stack.png" width="90%"> </p>
 
 Additional figures (cloud coverage statistics, tile grids, cloud masks) are available in the figures/ directory.
 
@@ -116,3 +116,4 @@ Researchers or collaborators interested in full reproducibility may contact the 
 - Incorporate alternative colour spaces (e.g., HSV, CIELAB, YCbCr) to improve cloud and haze discrimination beyond RGB heuristics
 - Explore multi-spectral and index-based feature fusion (RGB, FAI, NDVI, texture descriptors)
 - Adapt the methodology to other environmental monitoring tasks such as turbidity mapping, coastal erosion assessment, and flood detection
+
